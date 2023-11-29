@@ -1,3 +1,2 @@
 # blorox_Installer
-# This is a evil program that is a fake roblox installer
-# It does a lot of fake loading screen stuff and then just rickrolls you
+This is an evil fake roblox installer that first does a lot of slow loading screen stuff then it just rickrolls you by opening 10 tabs.
