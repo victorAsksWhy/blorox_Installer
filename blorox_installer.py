@@ -1,3 +1,11 @@
+# BLOROX ROBLOX EMULATOR V1.00
+# INSTRUCTIONS FOR MAC:
+# GO TO LAUNCPAD
+# SELECT TERMINAL
+# TYPE python /Desktop/blorox_installer.py 
+# if it does not work type python3 /Desktop/blorox_installer.py
+
+
 
 import webbrowser as wb
 import random as r
@@ -27,6 +35,7 @@ while done < 15:
     percent = percent + r.randint(20,30)
     if percent >= 100:
         print(f'{messages[done]}... (100%)')
+        print('')
         done = done + 1
         percent = 0
         t.sleep(1.5)
