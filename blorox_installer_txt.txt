@@ -4,6 +4,12 @@
 # SELECT TERMINAL
 # TYPE python /Desktop/blorox_installer.py 
 # if it does not work type python3 /Desktop/blorox_installer.py
+#
+# INSTRUCTIONS FOR WINDOWS 11
+# PRESS WIN + R
+# TYPE cmd
+# CLICK 'OK'
+# TYPE python /Desktop/blorox_installer.py
 
 import webbrowser as wb
 import random as r
